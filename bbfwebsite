@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf=8">
+  <title>Brook Letts-Diaz's Personal Website</title>
+  </meta>
+</head>
+
+<body>
+  <table>
+    <tr>
+      <td>
+        <h1>Brook Letts-Diaz</h1>
+        <p><em>Owner of Babbling Brook Farms and <strong>Babbling Brook Company</strong></em></p>
+        <p>I am a Web developer and a data analyst. I have a wonderful family
+          with my husband, John. I love to ride horses and garden.
+          We live on a small farm, and rescue animals who need loving homes.</p>
+      </td>
+    </tr>
+  </table>
+
+  <h3>Education</h3>
+  <ul>
+    <li>Baltimore Lutheran High Towson, Maryland, graduated in 1999 <strong><a href="https://concordiaprepschool.org/">Baltimore Lutheran High School</a></strong> </li>
+    <li>York College of Pennsylvania York, Pennsylvania <strong><a href="https://www.ycp.edu/">York College</a></strong></li>
+    <li>Google Data Analytics Certificate, Coursera, completed in 2022</li>
+    <li>Web Development Bootcamp, Udemy, 2022</li>
+  </ul>
+  <table cellspacing="20">
+    <thead>
+      <tr>
+        <th>Dates</th>
+        <th>Postion</th>
+        <th>Company</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>2005-2018</td>
+        <td>Bar Manager/ Head Bartender</td>
+        <td>Applebees</td>
+      </tr>
+      <tr>
+        <td>2018-2020</td>
+        <td>Head Bartender</td>
+        <td>J R Cash</td>
+      </tr>
+      <tr>
+        <td>2021-present</td>
+        <td>Owner and CEO</td>
+        <td>Babbling Brook Companies</td>
+      </tr>
+    </tbody>
+  </table>
+  <hr>
+  <h3>Skills</h3>
+  <table>
+    <tr>
+      <td>HTML(5)</td>
+      <td>&#9733&#9733&#9733</td>
+    </tr>
+    <td>CSS</td>
+    <td>&#9733&#9733&#9733</td>
+    <tr>
+      <td>SQL</td>
+      <td>&#9733&#9733</td>
+
+    </tr>
+    <tr>
+      <td>Photography</td>
+      <td>&#9733&#9733&#9733&#9733</td>
+    <tr>
+      <td>Javascript</td>
+      <td>&#9733&#9733</td>
+    </tr>
+    </tr>
+  </table>
+  <hr>
+  <a href="hobbies.html">My Hobbies</a>
+  <a href="contacts.html">Contact Me</a>
+</body>
+
+</html>
